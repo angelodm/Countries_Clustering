@@ -1,2 +1,2 @@
-# Countries_Clustering
-Clustering of selected world countries.
+# World Countries Clustering
+Applying clustering techniques to group (selected) world countries.
